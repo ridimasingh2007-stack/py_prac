@@ -1,4 +1,16 @@
-# py_prac
-For practicing and making Python projects as a beginner 
-This is my Python practice repo.
+# Python Practice Repository
 
+ This repository contains my beginner-level Python projects and exercises.
+ I am learning Python and practicing by making small & fun projects.
+
+ Projects:-
+ * Number Guessing Game - A game where the computer generates a random number between 1 and 100, and the user has to guess it.
+ * Random Password generator - A password generator where the computer generates a password that contains characters, punctuation and digits.
+
+About:-
+This repo is mainly for:
+* Practicing Python syntax and problem-solving.
+* Learning how to work with GitHub repositories.
+* Tracking my progress as I grow in coding.
+
+#More projects coming soon!!
