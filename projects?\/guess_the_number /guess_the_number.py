@@ -1,8 +1,20 @@
-import random
-import string
+import random 
+target = random.randint(1, 100)
 
-pass_len = 8
-charValues = string.ascii_letters + string.digits + string.punctuation
+while True:
+    userChoice = input("Guess the target or Quit(Q): ")
 
-password = "".join([random.choice(charValues)for i in range(pass_len)])
-print('Your random password is:', password)
+    if(userChoice == "Q"):
+        break
+    userChoice = int(userChoice)
+
+    if(userChoice == target):
+        print("Success : Correct Guess!!")
+        break
+
+    elif(userChoice < target) :
+        print("your number was too small. Take a bigger guess...")
+    else:
+        print("Your number was too big. Take a smaller guess...")
+print("----GAME OVER---")
+
