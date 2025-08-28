@@ -1,2 +1,4 @@
 # py_prac
-For practicing and making python projects as a beginner 
+For practicing and making Python projects as a beginner 
+This is my Python practice repo.
+Update README with project info
