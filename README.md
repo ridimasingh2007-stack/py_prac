@@ -5,7 +5,7 @@
 
  Projects:-
  * Number Guessing Game - A game where the computer generates a random number between 1 and 100, and the user has to guess it.
- * Random Password generator - A password generator where the computer generates a password that contains characters, punctuation and digits.
+ * Random Password generator - A password generator that creates strong passwords using characters, digits, and punctuation symbols.
 
 About:-
 This repo is mainly for:
