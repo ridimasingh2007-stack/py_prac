@@ -1,4 +1,4 @@
-print("Welcome to riri's palindrom checker")
+print("Welcome to riri's palindrome checker")
  
 def is_palindrom(text):
     length = len(text)
@@ -11,4 +11,5 @@ Str1 = input("Enter the first string you want to check: " )
 print(is_palindrom(Str1))
 
 Str2 = input("Enter the second string you want to check: ")
+
 print(is_palindrom(Str2))
