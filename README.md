@@ -5,8 +5,9 @@
 
  Projects:-
  * Number Guessing Game - A game where the computer generates a random number between 1 and 100, and the user has to guess it.
- * Random Password generator - A password generator that creates strong passwords using characters, digits, and punctuation symbols.
- * A scientific calculator - A Python-based **Scientific Calculator** with support for basic arithmetic, trigonometric, logarithmic, and power functions.
+ * Random Password Generator - A password generator that creates strong passwords using characters, digits, and punctuation symbols.
+ * A Scientific Calculator - A Python-based **Scientific Calculator** with support for basic arithmetic, trigonometric, logarithmic, and power functions.
+ * Random Jokes Generator - A mini project based on API and JSON to fetch and display random jokes with the help of loops in python.
 
 
 About:-
