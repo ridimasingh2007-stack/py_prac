@@ -1,7 +1,7 @@
 # Python Practice Repository
 
  This repository contains my beginner-level Python projects and exercises.
- I am learning Python and practicing by making small & fun projects.
+ I am learning Python and practicing by making small & fun projects while exploring core concepts.
 
  Projects:-
  * Number Guessing Game - A game where the computer generates a random number between 1 and 100, and the user has to guess it.
