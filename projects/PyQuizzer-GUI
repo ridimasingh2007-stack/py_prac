@@ -64,3 +64,4 @@ class QuizApp:
 root = tk.Tk()
 app = QuizApp(root)
 root.mainloop()
+
